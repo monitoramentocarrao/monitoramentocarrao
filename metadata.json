@@ -1,0 +1,6 @@
+{
+  "name": "Central de Monitoramento de Combustíveis",
+  "description": "Plataforma centralizada e consolidada para monitoramento diário de vendas de combustíveis e lubrificantes, com geração inteligente de relatórios mensais e exportação de dados para múltiplos postos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
